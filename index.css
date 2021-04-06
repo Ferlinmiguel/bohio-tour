@@ -5,7 +5,7 @@ body{
     text-align: justify;
 }
 
-.menu{
+.menu_principal{
     background-color: #1C2833;
     width: 100%;
 }
@@ -17,7 +17,7 @@ body{
     padding-top:0;
 }
 
-.imagen{
+.imagen_detras_de_la_frase{
     font-size: 20px;
     color: oldlace;
     background-image: url(img/steven.jpg);
@@ -27,12 +27,12 @@ body{
     width: 100%;
     height:  100vh;
 }
-.foto2{
+.imagen_numero_2{
     padding-top: 30px;
     width: 40vw;
     height: 50vh;
 }
-.Contenido{
+.Contenido_principal{
     padding-top: 30px;
     background-color:white;
     display: flex;
@@ -40,34 +40,33 @@ body{
     padding-left: 5%;
     padding-bottom: 10%;
 }
-.parrafo{
+.parrafo_numero_1{
     width: 90%;
 }
-.Contenido-2{
+.Contenido_numero_2{
     background-image: url(https://images.unsplash.com/photo-1558373749-bdd262865074?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
     background-size: 100% 100%;
     filter: 0.5;
     display: flex;
 }
       
-.parrafo2{
+.parrafo_numero_2{
     padding: 50px;
     color: white;
     width: 50%;
 }
-.icono2{
+.icono_gps{
     display: flex;
     align-items: center;
 }
 
-.imagen2{
+.imagen_numero_2{
     height: 300px;
 }
 
 footer{
     font-size: 25px;
     color: white;
-    box-sizing: border-box;
     margin-top: 100px;
     background-color:#1C2833 ;
     text-align: center;
