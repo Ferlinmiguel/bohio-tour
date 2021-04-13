@@ -16,11 +16,12 @@ body{
     padding-top:0;
 }
 
-.imagen{
+#slider{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    color: oldlace;
-    background-image: url(img/steven.jpg);
+    color: ghostwhite;
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
